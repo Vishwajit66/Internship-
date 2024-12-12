@@ -1,0 +1,55 @@
+Introduction:
+Overview of Walmart as a leading retail giant.
+Importance of data analysis for strategic decision-making.
+
+
+Objectives:
+A clear statement of analysis goals (e.g., understanding sales performance, optimizing pricing strategies).
+
+Need and Aim:
+Explanation of why the analysis is essential for Walmart's business growth.
+Specific aims to be achieved through the analysis.
+
+Data Analysis:
+Visual representations of sales and revenue trends (e.g., bar charts, pie charts).
+Comparative analysis of sales performance across different branches and cities.
+
+Results:
+Highlight key findings with supporting data visuals.
+Insights on average item prices and their variations.
+
+Future Scope:
+Suggestions for future analysis and improvement based on current findings.
+Opportunities for leveraging data insights to drive business growth.
+
+Conclusions:
+Summary of main findings and their implications.
+Recommendations for Walmart's future strategies based on the analysis.
+
+
+
+-------------------------------------------------------------------------------
+2. App Exploration: (5 marks)
+Explore the features and user experience of the Jar app. Identify two aspects that you think
+could be significantly improved and explain your reasoning behind each suggestion.
+
+Simplified Onboarding Process:
+Issue: Complex onboarding can deter new users. Simplifying the process with clear steps, minimal data entry, and interactive tutorials can enhance user experience and retention.
+Suggestion : Implement a streamlined onboarding flow with intuitive design and guided steps to help users set up accounts quickly and understand key features.
+Reasoning : By reducing friction during onboarding, users are more likely to complete setup and engage with the app. Clear steps and minimal data entry create a positive first impression, increasing the likelihood of continued usage and adoption.
+Enhanced Goal Tracking and Progress Visualization:
+Issue: Current goal tracking lacks depth. Implementing visual progress bars, milestone celebrations, and actionable insights can motivate users and provide a sense of accomplishment.
+Suggestion: Improve goal tracking features with interactive visuals and personalized insights to empower users in achieving their savings goals.
+Reasoning : Visual progress indicators and milestone celebrations make saving tangible and rewarding. Insights based on user behavior offer valuable guidance, fostering motivation and sustained engagement. These enhancements create a more fulfilling savings experience, driving long-term app usage and loyalty.
+
+
+-----------------------------------------------------------------------------------
+3. Product Optimisation: (5 marks)
+The Jar app has an engagement feature called 'Spin to Win'.
+Right now, if 100 people come to the app each day, only 23 of them try out this spinning game.
+But, we know that people who spin are more likely to retain on the app and do transactions.
+Now, we want to get more people to play the game. So, the question is, how can we make sure
+that at least 50 people out of every 100 who visit the app each day will play 'Spin to Win'? What
+can we do to get more people interested in spinning the wheel?
+
+To increase participation in the 'Spin to Win' feature on the Jar app from 23% to 50%, focus on enhancing visibility and incentives. Prominently showcase the game on the app's main screen with clear benefits like exclusive rewards. Implement gamification and personalization elements to make the experience interactive and tailored to users. Integrate social features and optimize the user experience based on data insights for continuous improvement.
